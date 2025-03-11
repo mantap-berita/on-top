@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mantap-berita.github.io/on-top/sitemap.xml
